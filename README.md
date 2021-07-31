@@ -6,16 +6,16 @@ This repo contains the materials & stuffs related to system design. I just start
 - Summary :
     1. Do not go into details prematurely:
         - do not go into too deep, at first just explain the high-level, then over the time with the interviewer question go into further details
-        - do talk all the time, let interviewer give there feedback and interact with them
+        - do not talk all the time, let interviewer give there feedback and interact with them
     2. Don't have a set architecture in your mind, if you have already thought something based on your previous prep, don't go for it, always follow the requirement and given scenario and act accordingly
     3. K-I-S-S (keep it simple stupid):
         - you don't choose a server (for example, among many) and you get into more and more deep of this architecture
-        - rather take a step back and thing in terms of overall system not a specific portion of it
+        - rather take a step back and think in terms of overall system not a specific portion of it
     4. Do not make points without justification (or thinking pros and cons and other side effects) :
         - like, don't say we want to use NoSQL DB
         - rather just make points why it needs NoSQL DB, and you can say "hey, we can use NoSQL like casanda because of these and these"
     5. Knowledge : Be aware of current technology
-        - you can name the technology during the system design, it shows you are knowledgeable
+        - you can name the technology that you can use during the system design, it shows you are knowledgeable
     * So overall, what matters most in system design is:
         - clarity of your thoughts
         - interaction with interviewers
