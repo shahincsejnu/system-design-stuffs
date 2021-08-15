@@ -21,4 +21,10 @@ This repo contains the materials & stuffs related to system design. I just start
         - interaction with interviewers
         - flexibility : don't stuck in one type of archi, rather make your system flexible
         - and finally, your knowledge
+
+## [What is Database Sharding](https://www.youtube.com/watch?v=5faMjKuB9bc&t=380s)
+- Summary:    
+
+## [System Design Basics: Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)
+- Summary:
     
